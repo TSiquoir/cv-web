@@ -1,3 +1,10 @@
+
+
+.background_img {
+    max-width: 100%;
+	height: auto;
+}
+
 .presentation {
     word-wrap: break-word;
     text-shadow: 1px 1px 5px rgb(0, 0, 0);
@@ -26,4 +33,13 @@
     vertical-align :
   }
 
- 
+ .openclassrooms {
+     font-size: 0.8em;
+ }
+
+.icon_mail {
+    width: 120px;
+    height: 120px;
+    font-size: 5em;
+    color: #369;
+}
