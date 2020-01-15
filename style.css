@@ -1,0 +1,29 @@
+.presentation {
+    word-wrap: break-word;
+    text-shadow: 1px 1px 5px rgb(0, 0, 0);
+}
+
+.nom {
+    color: #ffffff;
+    font-size : 2.5rem;
+    font-weight:bold;
+    
+}
+
+.text_presentation {
+    font-size : 1.2rem;
+    font-weight:bold;
+}
+  
+  .title {
+    color: #fdfdfd ;
+    font-size : 1.6rem;
+    margin-bottom: 1.5em;
+    
+  }
+  
+  .title_f {
+    vertical-align :
+  }
+
+ 
